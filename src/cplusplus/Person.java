@@ -9,7 +9,7 @@ import lombok.NonNull;
 //@AllArgsConstructor
 @EqualsAndHashCode(exclude={"grade"})
 public class Person {
-    @NonNull
+    @NonNull 
     private String name;
     @NonNull
     private int id;
