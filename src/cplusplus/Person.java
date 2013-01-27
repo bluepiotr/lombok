@@ -14,6 +14,7 @@ public class Person {
     @NonNull
     private int id;
     private double grade;
+    
 }
 
 //    public Person(){

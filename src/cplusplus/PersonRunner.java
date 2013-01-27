@@ -9,7 +9,7 @@ public class PersonRunner {
         System.out.println(p1);
         if (p.equals(p1))
             System.out.println("Duplicate");
-        else
+        else  
             System.out.println("Different");
     }
 }
